@@ -1,3 +1,5 @@
+📈 Linear Regression from Scratch (NumPy)
+
 This project implements Linear Regression from scratch using only basic Python libraries like NumPy — no scikit-learn or high-level ML frameworks.
 
 The goal is to deeply understand the mathematics and optimization process behind linear regression rather than relying on pre-built abstractions.
